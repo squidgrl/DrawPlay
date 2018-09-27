@@ -1,3 +1,5 @@
+Authors: Krista Dunlap & Tiger Kheng
+
 commit 1cfb98b2e9ea960d8c7021a273b8206dcd204b13
 Author: Tiger Kheng <tigerkheng@mines.edu>
 Date:   Thu Sep 27 11:53:50 2018 -0600
