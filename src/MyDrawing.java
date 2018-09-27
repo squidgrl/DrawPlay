@@ -1,3 +1,5 @@
+// Authors: Krista Dunlap & Tiger Kheng
+
 import java.awt.Graphics;
 
 import javax.swing.JFrame;

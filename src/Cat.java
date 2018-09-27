@@ -1,3 +1,5 @@
+// Authors: Krista Dunlap & Tiger Kheng
+
 import javax.swing.JPanel;
 import java.awt.*;
 import java.awt.geom.*;
