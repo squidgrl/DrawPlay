@@ -1,0 +1,59 @@
+commit 1cfb98b2e9ea960d8c7021a273b8206dcd204b13
+Author: Tiger Kheng <tigerkheng@mines.edu>
+Date:   Thu Sep 27 11:53:50 2018 -0600
+
+    Made the mouth bigger
+
+commit 082c567bee9214991626bb15347cd33ff66e64bd
+Author: Krista Dunlap <kdunlap@mines.edu>
+Date:   Thu Sep 27 11:51:43 2018 -0600
+
+    Made the eyes twice as big (increased EYE_HEIGHT and EYE_WIDTH)
+
+commit 6ba021f422ca5ab6d92a567bc397666437ae3df7
+Author: Tiger Kheng <tigerkheng@mines.edu>
+Date:   Thu Sep 27 11:49:26 2018 -0600
+
+    Changed head color to blue
+
+commit 92a407071a97f434150c4dc25a8662ab64307ea3
+Author: Krista Dunlap <kdunlap@mines.edu>
+Date:   Thu Sep 27 11:48:10 2018 -0600
+
+    Made head bigger
+
+commit 37887c808aa9a68a11bd63237d0ee7feea355224
+Author: Tiger Kheng <tigerkheng@mines.edu>
+Date:   Thu Sep 27 11:46:57 2018 -0600
+
+    Changed meow to woof
+
+commit 1c16b197edce84cfe20934b8961083f18ccd6b73
+Author: Krista Dunlap <kdunlap@mines.edu>
+Date:   Thu Sep 27 11:44:50 2018 -0600
+
+    Changed Eye Color to Red
+
+commit becf39891618012d47bd83d81f092ca72b735f84
+Author: Tiger Kheng <tigerkheng@mines.edu>
+Date:   Thu Sep 27 11:42:32 2018 -0600
+
+    Added our names to the files
+
+commit e8d31f76f477bd953d7af24f4c660e9934980e9a
+Author: Krista Dunlap <kdunlap@mines.edu>
+Date:   Thu Sep 27 11:36:40 2018 -0600
+
+    Made a README.md
+
+commit 35e79d754fea7a719b86638d03e375e8b75732fa
+Author: Krista Dunlap <kdunlap@mines.edu>
+Date:   Thu Sep 27 11:32:45 2018 -0600
+
+    Made a gitignore
+
+commit 4c7c52ab1ca16cf81406a827b7b7063b6ad128e1
+Author: Krista Dunlap <kdunlap@mines.edu>
+Date:   Thu Sep 27 11:26:21 2018 -0600
+
+    Initial Commit
